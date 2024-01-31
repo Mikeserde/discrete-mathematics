@@ -1,2 +1,3 @@
 # discrete-mathematics
-这是我的离散实验代码。（This is my code for discrete mathematics experiment.)
+**这是大学离散数学实验代码。**
+**实验二是一个图形化的判断和计算三种关系闭包的程序**
